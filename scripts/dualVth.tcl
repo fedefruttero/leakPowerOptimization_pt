@@ -5,7 +5,7 @@
 ##
 ##################################################################################################
 ## File         : dualVth.tcl
-## Authors      : Riccardo Fusari
+## Authors      : Riccardo Fusari, Federico Fruttero, Manuela Corona
 ##
 ##################################################################################################
 ## Description  : This script implements a Leakage power minimization procedure in Prime time
